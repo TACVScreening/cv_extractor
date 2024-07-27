@@ -1,0 +1,77 @@
+[
+    {
+        "input": "Proficient in Python programming language with 3 years of experience in building web applications.",
+        "output": {
+            "SKILL": [
+                {
+                    "entity": "Python programming language",
+                    "reason": "is a programming language"
+                }
+            ],
+            "RESPONSIBILITY": [
+                {
+                    "entity": "building web applications",
+                    "reason": "involves using Python to develop web applications"
+                }
+            ],
+            "EXPERIENCE": [
+                {
+                    "entity": "3 years of experience",
+                    "reason": "demonstrates duration of experience"
+                }
+            ]
+        }
+    },
+    {
+        "input": "Bachelor's degree in Computer Science or related field required.",
+        "output": {
+            "DEGREE": [
+                {
+                    "entity": "Bachelor's degree in Computer Science",
+                    "reason": "is a formal educational qualification"
+                }
+            ]
+        }
+    },
+    {
+        "input": "Managed a team of developers to deliver projects on time and within budget.",
+        "output": {
+            "RESPONSIBILITY": [
+                {
+                    "entity": "Managed a team of developers",
+                    "reason": "involves leadership and project management skills"
+                },
+                {
+                    "entity": "deliver projects on time and within budget",
+                    "reason": "highlights project management abilities"
+                }
+            ]
+        }
+    },
+    {
+        "input": "Strong problem-solving skills and attention to detail.",
+        "output": {
+            "SKILL": [
+                {
+                    "entity": "problem-solving skills",
+                    "reason": "involves analytical and critical thinking"
+                },
+                {
+                    "entity": "attention to detail",
+                    "reason": "involves being detail-oriented"
+                }
+            ]
+        }
+    },
+    {
+        "input" : "Information Technology Specialist at PT Abc, 02/2018 to Current",
+        "output": {
+            "EXPERIENCE": [
+                {
+                    "entity": "Information Technology Specialist at PT Abc 02/2018 to Current ",
+                    "reason": "demonstrates duration of experience as an IT Specialist at PT Abc"
+                }
+            ]
+        }
+    }
+]

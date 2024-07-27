@@ -1,0 +1,184 @@
+[
+    {
+        "input": "Proficient in Python programming language with 3 years of experience in building web applications.",
+        "output": [
+            {
+                "text": "Python programming language",
+                "is_entity": true,
+                "label": "SKILL",
+                "reason": "is a programming language"
+            },
+            {
+                "text": "building web applications",
+                "is_entity": true,
+                "label": "RESPONSIBILITY",
+                "reason": "involves using Python to develop web applications"
+            },
+            {
+                "text": "3 years of experience",
+                "is_entity": true,
+                "label": "EXPERIENCE",
+                "reason": "demonstrates duration of experience"
+            }
+        ]
+    },
+    {
+        "input": "Results-oriented and dedicated software engineer with 5 years of experience in full-stack web development",
+        "output": [
+            {
+                "text": "Results-oriented",
+                "is_entity": true,
+                "label": "SKILL",
+                "reason": "indicates a focus on achieving results"
+            },
+            {
+                "text": "software engineer with 5 years of experience",
+                "is_entity": true,
+                "label": "EXPERIENCE",
+                "reason": "demonstrates duration of experience in software engineering"
+            },
+            {
+                "text": "full-stack web development",
+                "is_entity": true,
+                "label": "SKILL",
+                "reason": "involves expertise in full-stack development"
+            }
+        ]
+    },
+    {
+        "input": "Bachelor's degree in Computer Science or related field required.",
+        "output": [
+            {
+                "text": "Bachelor's degree in Computer Science",
+                "is_entity": true,
+                "label": "DEGREE",
+                "reason": "is a formal educational qualification"
+            }
+        ]
+    },
+    {
+        "input": "Experience with data analysis and visualization tools such as Tableau or Power BI preferred.",
+        "output": [
+            {
+                "text": "data analysis",
+                "is_entity": true,
+                "label": "SKILL",
+                "reason": "involves analyzing data"
+            },
+            {
+                "text": "visualization tools",
+                "is_entity": true,
+                "label": "SKILL",
+                "reason": "involves using tools for data visualization"
+            },
+            {
+                "text": "Tableau or Power BI",
+                "is_entity": true,
+                "label": "SKILL",
+                "reason": "are specific tools used for data analysis and visualization"
+            }
+        ]
+    },
+    {
+        "input": "Managed a team of developers to deliver projects on time and within budget.",
+        "output": [
+            {
+                "text": "Managed a team of developers",
+                "is_entity": true,
+                "label": "RESPONSIBILITY",
+                "reason": "involves leadership and project management skills"
+            },
+            {
+                "text": "deliver projects on time and within budget",
+                "is_entity": true,
+                "label": "RESPONSIBILITY",
+                "reason": "highlights project management abilities"
+            }
+        ]
+    },
+    {
+        "input": "Strong problem-solving skills and attention to detail.",
+        "output": [
+            {
+                "text": "problem-solving skills",
+                "is_entity": true,
+                "label": "SKILL",
+                "reason": "involves analytical and critical thinking"
+            },
+            {
+                "text": "attention to detail",
+                "is_entity": true,
+                "label": "SKILL",
+                "reason": "involves being detail-oriented"
+            }
+        ]
+    },
+    {
+        "input": "Excellent communication and interpersonal abilities.",
+        "output": [
+            {
+                "text": "communication",
+                "is_entity": true,
+                "label": "SKILL",
+                "reason": "involves verbal and written communication"
+            },
+            {
+                "text": "interpersonal abilities",
+                "is_entity": true,
+                "label": "SKILL",
+                "reason": "involves working well with others"
+            }
+        ]
+    },
+    {
+        "input": "Implemented machine learning algorithms for predictive analytics with 2 years of experience.",
+        "output": [
+            {
+                "text": "machine learning algorithms",
+                "is_entity": true,
+                "label": "SKILL",
+                "reason": "involves expertise in machine learning"
+            },
+            {
+                "text": "predictive analytics",
+                "is_entity": true,
+                "label": "RESPONSIBILITY",
+                "reason": "involves applying machine learning for predictive analysis"
+            },
+            {
+                "text": "2 years of experience",
+                "is_entity": true,
+                "label": "EXPERIENCE",
+                "reason": "demonstrates duration of experience"
+            }
+        ]
+    },
+    {
+        "input": "Ph.D. in Economics with expertise in quantitative analysis.",
+        "output": [
+            {
+                "text": "Ph.D. in Economics",
+                "is_entity": true,
+                "label": "DEGREE",
+                "reason": "is a formal educational qualification"
+            },
+            {
+                "text": "expertise in quantitative analysis",
+                "is_entity": true,
+                "label": "SKILL",
+                "reason": "indicates proficiency in a specific skill"
+            }
+        ]
+    },
+    {
+        "input" : "Information Technology Specialist , 02/2018 to Current",
+        "output": [
+            {
+                "text": "Information Technology Specialist 02/2018 to Current",
+                "is_entity": true,
+                "label": "EXPERIENCE",
+                "reason": "demonstrates duration of experience as an IT Specialist"
+            }
+        ]
+    }
+]

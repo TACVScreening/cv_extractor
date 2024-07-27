@@ -1,0 +1,172 @@
+[
+    {
+        "input": "Proficient in Python programming language with 3 years of experience in building web applications.",
+        "output": {
+            "SKILL": [
+                {
+                    "entity": "Python programming language",
+                    "reason": "is a programming language"
+                }
+            ],
+            "RESPONSIBILITY": [
+                {
+                    "entity": "building web applications",
+                    "reason": "involves using Python to develop web applications"
+                }
+            ],
+            "EXPERIENCE": [
+                {
+                    "entity": "3 years of experience",
+                    "reason": "demonstrates duration of experience"
+                }
+            ]
+        }
+    },
+    {
+        "input": "Results-oriented and dedicated software engineer with 5 years of experience in full-stack web development",
+        "output": {
+            "SKILL": [
+                {
+                    "entity": "Results-oriented",
+                    "reason": "indicates a focus on achieving results"
+                },
+                {
+                    "entity": "full-stack web development",
+                    "reason": "involves expertise in full-stack development"
+                }
+            ],
+            "EXPERIENCE": [
+                {
+                    "entity": "software engineer with 5 years of experience",
+                    "reason": "demonstrates duration of experience in software engineering"
+                }
+            ]
+        }
+    },
+    {
+        "input": "Bachelor's degree in Computer Science or related field required.",
+        "output": {
+            "DEGREE": [
+                {
+                    "entity": "Bachelor's degree in Computer Science",
+                    "reason": "is a formal educational qualification"
+                }
+            ]
+        }
+    },
+    {
+        "input": "Experience with data analysis and visualization tools such as Tableau or Power BI preferred.",
+        "output": {
+            "SKILL": [
+                {
+                    "entity": "data analysis",
+                    "reason": "involves analyzing data"
+                },
+                {
+                    "entity": "visualization tools",
+                    "reason": "involves using tools for data visualization"
+                },
+                {
+                    "entity": "Tableau or Power BI",
+                    "reason": "are specific tools used for data analysis and visualization"
+                }
+            ]
+        }
+    },
+    {
+        "input": "Managed a team of developers to deliver projects on time and within budget.",
+        "output": {
+            "RESPONSIBILITY": [
+                {
+                    "entity": "Managed a team of developers",
+                    "reason": "involves leadership and project management skills"
+                },
+                {
+                    "entity": "deliver projects on time and within budget",
+                    "reason": "highlights project management abilities"
+                }
+            ]
+        }
+    },
+    {
+        "input": "Strong problem-solving skills and attention to detail.",
+        "output": {
+            "SKILL": [
+                {
+                    "entity": "problem-solving skills",
+                    "reason": "involves analytical and critical thinking"
+                },
+                {
+                    "entity": "attention to detail",
+                    "reason": "involves being detail-oriented"
+                }
+            ]
+        }
+    },
+    {
+        "input": "Excellent communication and interpersonal abilities.",
+        "output": {
+            "SKILL": [
+                {
+                    "entity": "communication",
+                    "reason": "involves verbal and written communication"
+                },
+                {
+                    "entity": "interpersonal abilities",
+                    "reason": "involves working well with others"
+                }
+            ]
+        }
+    },
+    {
+        "input": "Implemented machine learning algorithms for predictive analytics with 2 years of experience.",
+        "output": {
+            "SKILL": [
+                {
+                    "entity": "machine learning algorithms",
+                    "reason": "involves expertise in machine learning"
+                }
+            ],
+            "RESPONSIBILITY": [
+                {
+                    "entity": "predictive analytics",
+                    "reason": "involves applying machine learning for predictive analysis"
+                }
+            ],
+            "EXPERIENCE": [
+                {
+                    "entity": "2 years of experience",
+                    "reason": "demonstrates duration of experience"
+                }
+            ]
+        }
+    },
+    {
+        "input": "Ph.D. in Economics with expertise in quantitative analysis.",
+        "output": {
+            "DEGREE": [
+                {
+                    "entity": "Ph.D. in Economics",
+                    "reason": "is a formal educational qualification"
+                }
+            ],
+            "SKILL": [
+                {
+                    "entity": "expertise in quantitative analysis",
+                    "reason": "indicates proficiency in a specific skill"
+                }
+            ]
+        }
+    },
+    {
+        "input" : "Information Technology Specialist at PT Abc, 02/2018 to Current",
+        "output": {
+            "EXPERIENCE": [
+                {
+                    "entity": "Information Technology Specialist at PT Abc 02/2018 to Current ",
+                    "reason": "demonstrates duration of experience as an IT Specialist at PT Abc"
+                }
+            ]
+        }
+    }
+]
