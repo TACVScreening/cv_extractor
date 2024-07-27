@@ -1,4 +1,4 @@
-name: coba_langchain
+name: myenv
 channels:
   - conda-forge
   - defaults
@@ -139,4 +139,3 @@ dependencies:
       - watchfiles==0.22.0
       - websockets==12.0
       - yarl==1.9.4
-prefix: C:\Users\Yoseph Alexander\anaconda3\envs\coba_langchain
